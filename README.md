@@ -10,3 +10,5 @@ Servidor FastAPI para sincronizar Autoazur con Mercado Libre México.
 
 ## Variables de entorno
 Ver `.env.example`
+# autoazur-sync
+Miniservidor FastAPI para sincronizar Autoazur con Mercado Libre México
